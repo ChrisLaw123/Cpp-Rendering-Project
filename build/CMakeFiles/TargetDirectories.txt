@@ -1,0 +1,4 @@
+C:/Users/claw2/Documents/Cpp Rendering Project/build/CMakeFiles/main.dir
+C:/Users/claw2/Documents/Cpp Rendering Project/build/CMakeFiles/library.dir
+C:/Users/claw2/Documents/Cpp Rendering Project/build/CMakeFiles/edit_cache.dir
+C:/Users/claw2/Documents/Cpp Rendering Project/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,30 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/claw2/Documents/Cpp Rendering Project/build",
+	"dir-cur-src" : "C:/Users/claw2/Documents/Cpp Rendering Project",
+	"dir-top-bld" : "C:/Users/claw2/Documents/Cpp Rendering Project/build",
+	"dir-top-src" : "C:/Users/claw2/Documents/Cpp Rendering Project",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\claw2\\Documents\\Cpp Rendering Project\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/claw2/Documents/Cpp Rendering Project/build/CMakeFiles/main.dir",
+	"sources" : 
+	{
+		"CMakeFiles/main.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/claw2/Documents/Cpp Rendering Project/main.cpp"
+		}
+	}
+}

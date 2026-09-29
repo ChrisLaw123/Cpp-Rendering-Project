@@ -1,0 +1,42 @@
+# ninja log v7
+198	476	8123557830793863	CMakeFiles/main.dir/main.cpp.obj	24665f0ca706e048
+477	580	8123557833584368	main.exe	e7d39ef6bbc2c401
+1	140	8123565450081147	build.ninja	edc300fc763e78b6
+1	140	8123565450061127	C:/Users/claw2/Documents/Cpp Rendering Project/build/cmake_install.cmake	edc300fc763e78b6
+4	110	8123560178374306	CMakeFiles/library.dir/library_implementation.cpp.obj.ddi	ca5fdb13b6adc3d1
+20	49	8123565289541247	CMakeFiles/library.dir/CXX.dd	16c84d19bf27c1a7
+20	49	8123565289541247	CMakeFiles/library.dir/CXXModules.json	16c84d19bf27c1a7
+20	49	8123565289541247	CMakeFiles/library.dir/library_implementation.cpp.obj.modmap	16c84d19bf27c1a7
+21	147	8123557829018752	CMakeFiles/main.dir/main.cpp.obj.ddi	412ed1d5e5773a37
+148	192	8123557830673874	CMakeFiles/main.dir/CXX.dd	8b9b2c9b1ca32ace
+148	192	8123557830673874	CMakeFiles/main.dir/CXXModules.json	8b9b2c9b1ca32ace
+148	192	8123557830673874	CMakeFiles/main.dir/main.cpp.obj.modmap	8b9b2c9b1ca32ace
+137	458	8123560179699453	CMakeFiles/library.dir/library_implementation.cpp.obj	635704627c4e4214
+459	571	8123560182924959	liblibrary.a	3c98833668384170
+11	155	8123565450081147	build.ninja	edc300fc763e78b6
+11	155	8123565450081147	C:/Users/claw2/Documents/Cpp Rendering Project/build/cmake_install.cmake	edc300fc763e78b6
+19	49	8123565450586311	CMakeFiles/library.dir/CXX.dd	16c84d19bf27c1a7
+19	49	8123565450586311	CMakeFiles/library.dir/CXXModules.json	16c84d19bf27c1a7
+19	49	8123565450586311	CMakeFiles/library.dir/library_implementation.cpp.obj.modmap	16c84d19bf27c1a7
+14	122	8123565450536270	CMakeFiles/main.dir/main.cpp.obj.ddi	6a8736cdf7c44e60
+122	170	8123565451616599	CMakeFiles/main.dir/CXX.dd	8b9b2c9b1ca32ace
+122	170	8123565451616599	CMakeFiles/main.dir/CXXModules.json	8b9b2c9b1ca32ace
+122	170	8123565451616599	CMakeFiles/main.dir/main.cpp.obj.modmap	8b9b2c9b1ca32ace
+13	139	8123565662591646	CMakeFiles/library.dir/library_implementation.cpp.obj.ddi	ca5fdb13b6adc3d1
+21	144	8123565662671661	CMakeFiles/main.dir/main.cpp.obj.ddi	6a8736cdf7c44e60
+139	167	8123565663846888	CMakeFiles/library.dir/CXX.dd	16c84d19bf27c1a7
+139	167	8123565663846888	CMakeFiles/library.dir/CXXModules.json	16c84d19bf27c1a7
+139	167	8123565663846888	CMakeFiles/library.dir/library_implementation.cpp.obj.modmap	16c84d19bf27c1a7
+144	179	8123565663896901	CMakeFiles/main.dir/CXX.dd	8b9b2c9b1ca32ace
+144	179	8123565663896901	CMakeFiles/main.dir/CXXModules.json	8b9b2c9b1ca32ace
+144	179	8123565663896901	CMakeFiles/main.dir/main.cpp.obj.modmap	8b9b2c9b1ca32ace
+168	449	8123565664136881	CMakeFiles/library.dir/library_implementation.cpp.obj	635704627c4e4214
+180	456	8123565664256911	CMakeFiles/main.dir/main.cpp.obj	796589f8317052f3
+450	588	8123565666957831	liblibrary.a	3c98833668384170
+588	735	8123565668332919	main.exe	60662b020600d2d
+24	131	8123565766764252	CMakeFiles/main.dir/main.cpp.obj.ddi	6a8736cdf7c44e60
+131	160	8123565767839333	CMakeFiles/main.dir/CXX.dd	8b9b2c9b1ca32ace
+131	160	8123565767839333	CMakeFiles/main.dir/CXXModules.json	8b9b2c9b1ca32ace
+131	160	8123565767839333	CMakeFiles/main.dir/main.cpp.obj.modmap	8b9b2c9b1ca32ace
+161	465	8123565768139334	CMakeFiles/main.dir/main.cpp.obj	796589f8317052f3
+465	577	8123565771179832	main.exe	60662b020600d2d
